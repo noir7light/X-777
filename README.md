@@ -7,3 +7,5 @@ Enter the App ID
 
 Enter the number to run
 
+Enter the server ID
+
